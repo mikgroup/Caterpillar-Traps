@@ -6,4 +6,4 @@ Official GitHub Repository for paper Caterpillar Traps: A Highly Flexible, Distr
 
 In this repository, we include a [document](https://github.com/mikgroup/Caterpillar-Traps/blob/0011a52038e635f0e986626384f4ba8784006f0d/Supplementary%20Material%20-%20Clamp-on%20and%20Closed%20Twisted%20Pair%20Toroids%20Fabrication%20Details.pdf) that includes the necessary steps in order to fabricate our cable trap design.
 
-We also include a [video]() demonstrating how the clamp-on toroids can be put on a cable and released.
+We also include a [video](https://github.com/mikgroup/Caterpillar-Traps/blob/c3c519bad65d030e9b819e25739e04dc348015e7/ClamponToroidsDemo.MOV) demonstrating how the clamp-on toroids can be put on a cable and released.
